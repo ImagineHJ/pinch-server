@@ -3,8 +3,6 @@
 뉴스레터 정리 서비스 Pinch 의 REST API 서버입니다.
 <br>
 
-[API 문서 링크](https://documenter.getpostman.com/view/15189759/Tzm9huBY)
-
 ---
 
 ### 서버 아키텍쳐
